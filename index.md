@@ -4,6 +4,14 @@
 
 ###### This is an `<h6>` header, which is the smallest
 
-This is all what I have learned.
+## This is all what I have learned.
+
+## ADD a picture
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+## Add a code example
+
+``` javascript
+var myVar = "Hello, world!";
+```
